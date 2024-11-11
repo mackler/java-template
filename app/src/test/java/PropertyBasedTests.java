@@ -1,7 +1,6 @@
 import static org.junit.jupiter.api.Assertions.*;
 
 import net.jqwik.api.*;
-import org.assertj.core.api.*;
 
 class PropertyBasedTests {
 
